@@ -35,7 +35,7 @@ Lihat file **[METODE_DAN_HASIL.md](METODE_DAN_HASIL.md)** untuk:
 
 File ini berisi:
 1. **Tabel Metode** - Overview arsitektur dan komponen model
-2. **Tabel Hasil** - Perbandingan performa metrik dengan 12+ metode lain
+2. **Tabel Hasil** - Perbandingan performa metrik dengan 13 metode lain
 3. **Ringkasan Hasil** - Highlight performa dan keunggulan
 4. **Kesimpulan** - Implikasi praktis dan aplikasi
 
